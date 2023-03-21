@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishikesh</h1>
-<h3 align="center">I am a senior at Texas Tech University studying Electrical Engineering</h3>
+<h3 align="center">I am a senior at Texas Tech University studying Electrical Engineering. I am extremely passionate about designing PCBs, Robotics, mainly ones that can fly :), and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikesh2715&label=Profile%20views&color=0e75b6&style=flat" alt="rishikesh2715" /> </p>
 
