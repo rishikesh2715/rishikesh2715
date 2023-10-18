@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh2715" alt="rishikesh2715" /></a> </p>
 
-- 🔭 I’m currently working on **A Collapsible Quadcopter Style Drone**
+- 🔭 I’m currently working on **A Collapsible Quadcopter Style Drone with Augmented reality feature that can detect and overlay objects on interests in your field of vision even if those objects are not in your direct line of sight**
 
 - 📫 How to reach me **rishikesh3304@gmail.com**
 
