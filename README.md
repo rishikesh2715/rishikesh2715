@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rishikesh3304@gmail.com**
 
-- 📄 Know about my experiences [http://www.linkedin.com/in/rishi-lesh3304](http://www.linkedin.com/in/rishi-kesh3304)
+- 📄 Know about my experiences [http://www.linkedin.com/in/rishi-kesh3304](http://www.linkedin.com/in/rishi-kesh3304)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
